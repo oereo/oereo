@@ -9,5 +9,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oereo&repo=Webeing&theme=dracula)](https://github.com/oereo/Webeing)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oereo&repo=cau-lion-server&theme=dracula)](https://github.com/oereo/cau-lion-server)
 
