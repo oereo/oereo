@@ -2,7 +2,7 @@
 - Likelion 8th Representative Teacher
 - Woot Backend Developer
 - Bonding Developer
-- Developer??
+- Software engineer 
 <!--  GitHub Stat  -->
 <img src="https://github-readme-stats.vercel.app/api?username=oereo&border=true&border_color=89e051&border_radius=9&cache_seconds=1800&theme=radical&show_icons=true&hide=stars&count_private=true" width=59%>
 
